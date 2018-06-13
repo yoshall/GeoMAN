@@ -19,7 +19,7 @@ If you find this code useful for your research, please cite our paper:
 ```
 
 ## Framework
-![](results\framework.png)
+![](results/framework.png)
 
 ## Code Usage
 ### Prelimary
