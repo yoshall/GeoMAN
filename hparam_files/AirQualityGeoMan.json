@@ -1,0 +1,19 @@
+{
+    "gpu_id": "0",
+    "learning_rate": 0.001,
+    "lambda_l2_reg": 0.001,
+    "gc_rate": 2.5,
+    "dropout_rate": 0.3,
+    "n_stacked_layers": 2,
+    "s_attn_flag": 2,
+    "ext_flag": true,
+    "n_sensors": 35,
+    "n_input_encoder": 19,
+    "n_steps_encoder": 12,
+    "n_hidden_encoder": 128,
+    "n_input_decoder": 1,
+    "n_external_input": 83,
+    "n_steps_decoder": 6,
+    "n_hidden_decoder": 128,
+    "n_output_decoder": 1
+}
