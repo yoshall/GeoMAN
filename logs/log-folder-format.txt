@@ -1,0 +1,6 @@
+'{}-{}-{}-{}-{}-{:.2f}-{:.3f}/'.format(model_name,
+                                        hps.n_steps_encoder,
+                                        hps.n_steps_decoder,
+                                        hps.n_stacked_layers,
+                                        hps.n_hidden_encoder,
+                                        hps.lambda_l2_reg)
