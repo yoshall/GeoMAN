@@ -1,4 +1,4 @@
-GeoMAN: a deep learning approach for spatio-temporal forecasting
+GeoMAN
 ======
 [GeoMAN](https://github.com/yoshall/GeoMAN): Multi-level Attention Networks for Geo-sensory Time Series Prediction.
 
