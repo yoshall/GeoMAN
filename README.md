@@ -1,8 +1,8 @@
-GeoMAN
+GeoMAN: a deep learning approach for spatio-temporal forecasting
 ======
 [GeoMAN](https://github.com/yoshall/GeoMAN): Multi-level Attention Networks for Geo-sensory Time Series Prediction.
 
-*An easy implement of GeoMAN, Tested on `CentOS 7` and `Windows Server 2012 R2`.*
+*An easy implement of GeoMAN using TensorFlow, Tested on `CentOS 7` and `Windows Server 2012 R2`.*
 
 ## Paper 
 [Yuxuan Liang](http://yuxuanliang.com), Songyu Ke, Junbo Zhang, Xiuwen Yi, [Yu Zheng](http://urban-computing.com/yuzheng), "[GeoMAN: Multi-level Attention Networks for Geo-sensory Time Series Prediction](http://yuxuanliang.com/assets/pdf/ijcai-18.pdf)", IJCAI 2018.
@@ -19,7 +19,7 @@ If you find this code useful for your research, please cite our paper:
 ```
 
 ## Framework
-![](results/framework.png)
+![](images/framework.png)
 
 ## Code Usage
 ### Prelimary
