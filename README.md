@@ -22,7 +22,7 @@ If you find this code useful for your research, please cite our paper:
 ![](results/framework.png)
 
 ## Code Usage
-### Prelimary
+### Preliminary
 GeoMAN uses the following dependencies: 
 * [TensorFlow](https://github.com/tensorflow/tensorflow#download-and-setup) > 1.2.0
 * numpy and scipy.
