@@ -2,10 +2,10 @@
 ======
 [GeoMAN](https://github.com/yoshall/GeoMAN): Multi-level Attention Networks for Geo-sensory Time Series Prediction.
 
-*An easy implement of GeoMAN using TensorFlow, Tested on `CentOS 7` and `Windows Server 2012 R2`.*
+*An easy implement of GeoMAN using TensorFlow, tested on `CentOS 7` and `Windows Server 2012 R2`.*
 
 ## Paper 
-[Yuxuan Liang](http://yuxuanliang.com), Songyu Ke, Junbo Zhang, Xiuwen Yi, [Yu Zheng](http://urban-computing.com/yuzheng), "[GeoMAN: Multi-level Attention Networks for Geo-sensory Time Series Prediction](http://yuxuanliang.com/assets/pdf/ijcai-18.pdf)", IJCAI 2018.
+[Yuxuan Liang](http://yuxuanliang.com), Songyu Ke, [Junbo Zhang](http://zhangjunbo.org/), Xiuwen Yi, [Yu Zheng](http://urban-computing.com/yuzheng), "[GeoMAN: Multi-level Attention Networks for Geo-sensory Time Series Prediction](http://yuxuanliang.com/assets/pdf/ijcai-18.pdf)", *IJCAI*, 2018.
 
 If you find this code and dataset useful for your research, please cite our paper:
 ```
@@ -17,8 +17,9 @@ If you find this code and dataset useful for your research, please cite our pape
 }
 ```
 
-## Dataset
-The datasets we use for model training is detailed in Section 4.1 of our paper, which are still under processing for release. You can test the code using the air quality data from 2014/5/1 to 2015/4/30 in our previous research, i.e., KDD-15. [[Click here for datasets](http://urban-computing.com/data/Data-1.zip)].
+## Dataset [[Click here](http://urban-computing.com/data/Data-1.zip)]
+The datasets we use for model training is detailed in Section 4.1 of our paper, which are still under processing for release. You can test the code using the air quality data from 2014/5/1 to 2015/4/30 in our previous research, i.e., KDD-13 and KDD-15. For more datasets, you can visit the [homepage](http://urban-computing.com/) of Urban Computing Lab in JD Group.
+
 
 
 ## Code Usage
