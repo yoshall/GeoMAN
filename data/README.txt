@@ -1,0 +1,1 @@
+Since the processed data cannot be released under the copyright of our company, you can use the sample data under "../sample_data" to test our code.
