@@ -37,9 +37,9 @@ The model has the following inputs:
 * local_inputs: the input of local spatial attention, shape->[batch_size, n_steps_encoder, n_input_encoder]
 * global_inputs: the input of global spatial attention, shape->[batch_size, n_steps_encoder, n_sensors]
 * external_inputs: the input of external factors, shape->[batch_size, n_steps_decoder, n_external_input]
-* local_attn_states: shape->[batch_size, hps.n_input_encoder, hps.n_steps_encoder]
-* global_attn_states: shape->[batch_size, hps.n_sensors, hps.n_input_encoder, hps.n_steps_encoder]
-* labels: ground truths, shape->[batch_size, hps.n_steps_decoder, hps.n_output_decoder]
+* local_attn_states: shape->[batch_size, n_input_encoder, n_steps_encoder]
+* global_attn_states: shape->[batch_size, n_sensors, n_input_encoder, n_steps_encoder]
+* labels: ground truths, shape->[batch_size, n_steps_decoder, n_output_decoder]
 
 ### Guide
 The model implement mainly lies in "GeoMAN.py" and "base_model.py" and both of them are well commented. To train or test our model, please follow the presented notebooks.
