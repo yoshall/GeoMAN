@@ -18,7 +18,7 @@ If you find this code and dataset useful for your research, please cite our pape
 ```
 
 ## Dataset [[Click here](http://urban-computing.com/data/Data-1.zip)]
-The datasets we use for model training is detailed in Section 4.1 of our paper, which are still under processing for release. You can test the code using the air quality data from 2014/5/1 to 2015/4/30 in our previous research, i.e., KDD-13 and KDD-15. For more datasets, you can visit the [homepage](http://urban-computing.com/) of Urban Computing Lab in JD Group.
+The datasets we use for model training is detailed in Section 4.1 of our paper, which are still under processing for release. You can use the sampled data with 100 instances under "sample_data" folder. Besides, you can also test the code by using the air quality data from 2014/5/1 to 2015/4/30 in our previous research, i.e., KDD-13 and KDD-15. For more datasets, you can visit the [homepage](http://urban-computing.com/) of Urban Computing Lab in JD Group.
 
 
 
