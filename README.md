@@ -5,15 +5,21 @@
 *An easy implement of GeoMAN using TensorFlow, tested on `CentOS 7` and `Windows Server 2012 R2`.*
 
 ## Paper 
-[Yuxuan Liang](http://yuxuanliang.com), Songyu Ke, [Junbo Zhang](http://zhangjunbo.org/), Xiuwen Yi, [Yu Zheng](http://urban-computing.com/yuzheng), "[GeoMAN: Multi-level Attention Networks for Geo-sensory Time Series Prediction](http://yuxuanliang.com/assets/pdf/ijcai-18.pdf)", *IJCAI*, 2018.
+[Yuxuan Liang](http://yuxuanliang.com), Songyu Ke, [Junbo Zhang](http://zhangjunbo.org/), Xiuwen Yi, [Yu Zheng](http://urban-computing.com/yuzheng), "[GeoMAN: Multi-level Attention Networks for Geo-sensory Time Series Prediction](http://yuxuanliang.com/assets/pdf/ijcai-18/paper.pdf)", *IJCAI*, 2018.
 
 If you find this code and dataset useful for your research, please cite our paper:
 ```
-@article{liang2018geoman,
-  title={GeoMAN: Multi-level Attention Networks for Geo-sensory Time Series Prediction},
-  author={Liang, Yuxuan and Ke, Songyu and Zhang, Junbo and Yi, Xiuwen and Zheng, Yu},
-  booktitle={IJCAI},
-  year={2018}
+@inproceedings{ijcai2018-476,
+  title     = {GeoMAN: Multi-level Attention Networks for Geo-sensory Time Series Prediction},
+  author    = {Yuxuan Liang and Songyu Ke and Junbo Zhang and Xiuwen Yi and Yu Zheng},
+  booktitle = {Proceedings of the Twenty-Seventh International Joint Conference on
+               Artificial Intelligence, {IJCAI-18}},
+  publisher = {International Joint Conferences on Artificial Intelligence Organization},
+  pages     = {3428--3434},
+  year      = {2018},
+  month     = {7},
+  doi       = {10.24963/ijcai.2018/476},
+  url       = {https://doi.org/10.24963/ijcai.2018/476},
 }
 ```
 
