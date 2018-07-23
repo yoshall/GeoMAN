@@ -31,9 +31,9 @@ The datasets we use for model training is detailed in Section 4.1 of our paper, 
 ## Code Usage
 ### Preliminary
 GeoMAN uses the following dependencies: 
-* [TensorFlow](https://github.com/tensorflow/tensorflow#download-and-setup) > 1.2.0
+* [TensorFlow](https://github.com/tensorflow/tensorflow#download-and-setup) >= 1.5.0
 * numpy and scipy.
-* CUDA 8.0 or latest version. And **cuDNN** is highly recommended. 
+* CUDA 8.0 or latest version. And **cuDNN** is highly recommended.
 
 ### Code Framework
 ![](images/framework.png)
