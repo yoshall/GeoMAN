@@ -4,7 +4,7 @@
 
 *An easy implement of GeoMAN using TensorFlow, tested on `CentOS 7` and `Windows Server 2012 R2`.*
 
-[Pytorch version](https://github.com/xchadesi/GeoMAN)
+->[Pytorch version](https://github.com/xchadesi/GeoMAN)
 
 ## Paper 
 [Yuxuan Liang](http://yuxuanliang.com), Songyu Ke, [Junbo Zhang](http://zhangjunbo.org/), Xiuwen Yi, [Yu Zheng](http://urban-computing.com/yuzheng), "[GeoMAN: Multi-level Attention Networks for Geo-sensory Time Series Prediction](https://www.ijcai.org/proceedings/2018/0476.pdf)", *IJCAI*, 2018.
